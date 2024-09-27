@@ -14,10 +14,17 @@ I’m a passionate **MSc student in Actuarial Science** with a strong foundation
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, R, SQL, C++
+- **Programming Languages:** Python, R, SQL, MATLAB
 - **Data Analysis:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-- **Visualization Tools:** Matplotlib, Seaborn, Plotly, Tableau
+- **Visualization Tools:** Matplotlib, Seaborn, Plotly, Tableau, Power BI
 - **Financial Tools:** Bloomberg Terminal, Quantlib, Backtrader
 - **Machine Learning:** Regression, Classification, Time Series Analysis, Deep Learning
 - **Statistics & Probability:** Monte Carlo Simulations, Bayesian Inference, Hypothesis Testing
 - **Quantitative Finance:** Asset Pricing, Risk Management, Derivatives Pricing
+
+## 🧠 Learning & Development
+
+Currently expanding my knowledge in:
+
+- **Reinforcement Learning** for trading strategies  
+- **Deep Learning** with PyTorch and TensorFlow
