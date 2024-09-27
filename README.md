@@ -10,3 +10,14 @@ I’m a passionate **MSc student in Actuarial Science** with a strong foundation
 - 📫 How to reach me: Feel free to connect with me on **LinkedIn** or send a message through **GitHub**.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love solving **complex problems** through a mix of **statistical analysis** and **innovative mathematical models**—I treat every problem like a puzzle waiting to be solved!
+
+
+## 🛠️ Skills
+
+- **Programming Languages:** Python, R, SQL, C++
+- **Data Analysis:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+- **Visualization Tools:** Matplotlib, Seaborn, Plotly, Tableau
+- **Financial Tools:** Bloomberg Terminal, Quantlib, Backtrader
+- **Machine Learning:** Regression, Classification, Time Series Analysis, Deep Learning
+- **Statistics & Probability:** Monte Carlo Simulations, Bayesian Inference, Hypothesis Testing
+- **Quantitative Finance:** Asset Pricing, Risk Management, Derivatives Pricing
