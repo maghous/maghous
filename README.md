@@ -1,31 +1,97 @@
-## Hi there 👋
+## About Me
 
-I'm a passionate MSc student in Actuarial Science with a strong foundation in Applied Mathematics (having completed an MSc in Applied Mathematics as well). Here's a little more about me:
+I am an MSc student in Actuarial Science with a comprehensive background in Applied Mathematics, holding an MSc in Applied Mathematics. My academic foundation combines theoretical rigor with practical applications in financial and insurance sectors.
 
--🔭 I'm currently working on actuarial models and risk management techniques, exploring how advanced mathematical theories apply to real-world financial and insurance challenges.
--🌱 I'm currently learning about machine learning applications in actuarial science and financial risk modeling, expanding my skill set in both data analytics and predictive modeling.
--⚽ In my free time, I do football analytics projects, combining my passion for data science with the beautiful game.
--👯 I'm looking to collaborate on data-driven projects related to financial risk, insurance analytics, predictive modeling, and sports analytics.
--🤔 I'm looking for help with refining machine learning algorithms for insurance underwriting, investment risk assessments, and advanced sports performance modeling.
--💬 Ask me about actuarial science, mathematical modeling, probability theory, data analytics, and football statistics.
--📫 How to reach me: Feel free to connect with me on LinkedIn or send a message through GitHub.
--😄 Pronouns: He/Him
--⚡ Fun fact: I love solving complex problems through a mix of statistical analysis and innovative mathematical models—I treat every problem like a puzzle waiting to be solved
+## Current Focus
 
+**Research & Development**
+- Developing actuarial models and advanced risk management techniques
+- Applying mathematical theories to solve complex financial and insurance challenges
+- Integrating machine learning methodologies into actuarial science and financial risk modeling
 
-## 🛠️ Skills
+**Professional Interests**
+- Data-driven financial risk assessment
+- Insurance analytics and predictive modeling
+- Quantitative sports analytics with focus on football performance metrics
 
-- **Programming Languages:** Python, R, SQL, MATLAB
-- **Data Analysis:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-- **Visualization Tools:** Matplotlib, Seaborn, Plotly, Tableau, Power BI
-- **Financial Tools:** Bloomberg Terminal, Quantlib, Backtrader
-- **Machine Learning:** Regression, Classification, Time Series Analysis, Deep Learning
-- **Statistics & Probability:** Monte Carlo Simulations, Bayesian Inference, Hypothesis Testing
-- **Quantitative Finance:** Asset Pricing, Risk Management, Derivatives Pricing
+## Areas of Expertise
 
-## 🧠 Learning & Development
+**Core Competencies**
+- Actuarial science and mathematical modeling
+- Probability theory and statistical analysis
+- Financial risk management and insurance analytics
+- Data science applications in finance and sports
 
-Currently expanding my knowledge in:
+**Technical Specializations**
+- Advanced statistical modeling and Monte Carlo simulations
+- Machine learning applications in insurance underwriting
+- Investment risk assessment and portfolio optimization
+- Sports performance analytics and predictive modeling
 
-- **Reinforcement Learning** for trading strategies  
-- **Deep Learning** with PyTorch and TensorFlow
+## 🛠️ Technical Skills
+
+### Programming & Analytics
+- **Languages:** Python, R, SQL, MATLAB
+- **Data Science Stack:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+- **Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI
+- **Financial Platforms:** Bloomberg Terminal, QuantLib, Backtrader
+
+### Statistical & Mathematical Methods
+- **Machine Learning:** Regression Analysis, Classification, Time Series Forecasting, Deep Learning
+- **Statistical Techniques:** Monte Carlo Simulations, Bayesian Inference, Hypothesis Testing
+- **Quantitative Finance:** Asset Pricing Models, Risk Management, Derivatives Pricing
+
+## 📈 Current Learning Objectives
+
+**Advanced Technologies**
+- Reinforcement Learning applications in algorithmic trading strategies
+- Advanced Deep Learning architectures using PyTorch and TensorFlow
+- Cutting-edge machine learning techniques for insurance underwriting optimization
+
+## 🤝 Collaboration Opportunities
+
+I welcome collaboration on projects involving:
+- Financial risk modeling and insurance analytics
+- Predictive modeling for actuarial applications
+- Data-driven sports analytics and performance optimization
+- Advanced statistical modeling for business intelligence
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+## 📫 Professional Contact
+
+**Connect with me:**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+## 🏆 Key Projects
+
+### Actuarial Risk Modeling
+*Advanced statistical models for insurance risk assessment*
+- Technologies: Python, R, Monte Carlo Simulations
+- [Repository Link](https://github.com/YOUR_USERNAME/project-name)
+
+### Financial Portfolio Optimization
+*Machine learning approach to investment risk management*
+- Technologies: Python, TensorFlow, QuantLib
+- [Repository Link](https://github.com/YOUR_USERNAME/project-name)
+
+### Football Analytics Dashboard
+*Data-driven sports performance analysis platform*
+- Technologies: Python, Tableau, Statistical Modeling
+- [Repository Link](https://github.com/YOUR_USERNAME/project-name)
+
+---
+
+<div align="center">
+
+*Passionate about transforming complex mathematical concepts into practical solutions for real-world financial and analytical challenges.*
+
+⭐ **If you find my work interesting, please consider giving my repositories a star!** ⭐
+
+</div>
