@@ -1,6 +1,6 @@
 ## About Me
 
-I am an MSc student in Actuarial Science with a comprehensive background in Applied Mathematics, holding an MSc in Applied Mathematics. My academic foundation combines theoretical rigor with practical applications in financial and insurance sectors.
+MSc in Actuarial Science (completed) | Strong background in Applied Mathematics | Finance & Insurance
 
 ## Current Focus
 
