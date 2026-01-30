@@ -2,31 +2,6 @@
 
 MSc in Actuarial Science (completed) | Strong background in Applied Mathematics | Finance & Insurance
 
-## Current Focus
-
-**Research & Development**
-- Developing actuarial models and advanced risk management techniques
-- Applying mathematical theories to solve complex financial and insurance challenges
-- Integrating machine learning methodologies into actuarial science and financial risk modeling
-
-**Professional Interests**
-- Data-driven financial risk assessment
-- Insurance analytics and predictive modeling
-- Quantitative sports analytics with focus on football performance metrics
-
-## Areas of Expertise
-
-**Core Competencies**
-- Actuarial science and mathematical modeling
-- Probability theory and statistical analysis
-- Financial risk management and insurance analytics
-- Data science applications in finance and sports
-
-**Technical Specializations**
-- Advanced statistical modeling and Monte Carlo simulations
-- Machine learning applications in insurance underwriting
-- Investment risk assessment and portfolio optimization
-- Sports performance analytics and predictive modeling
 
 ## 🛠️ Technical Skills
 
