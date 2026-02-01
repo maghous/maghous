@@ -70,11 +70,11 @@ I'm actively looking for projects at the intersection of:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maghous&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=E6EDF3&icon_color=4a90d9&title_color=4a90d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maghous&show_icons=true&theme=github_dark&hide_border=true)
 
 &nbsp;
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maghous&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=4a90d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maghous&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
