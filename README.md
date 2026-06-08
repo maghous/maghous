@@ -4,23 +4,17 @@
 
 # Abdellah Maghous
 
-**MSc Actuarial Science · Quantitative Finance & Data Science**
+**Business Intelligence & Data Engineering**
 
-Turning complex mathematical frameworks into scalable, data-driven solutions across finance, insurance, and analytics.
+Transforming raw data into scalable, insight-driven solutions using modern data platforms and cloud technologies.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C4&style=flat-for-badge)](https://www.linkedin.com/in/abdellah-maghous-036a0a159/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C4&style=flat-for-the-badge)](https://www.linkedin.com/in/abdellah-maghous-036a0a159/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22&style=flat-for-the-badge)](https://github.com/maghous)
 
 </div>
-
----
-
-## About
-
-Applied mathematician with an MSc in Actuarial Science and a specialization at the intersection of **quantitative finance**, **machine learning**, and **insurance analytics**. My work focuses on building rigorous statistical models and deploying them into production-ready systems — from derivatives pricing and risk management to predictive underwriting.
 
 ---
 
@@ -30,58 +24,21 @@ Applied mathematician with an MSc in Actuarial Science and a specialization at t
 
 | Category | Tools |
 |---|---|
-| **Languages** | Python · R · SQL · MATLAB |
-| **ML / DS** | Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch |
-| **Visualization** | Matplotlib · Seaborn · Plotly · Tableau · Power BI |
-| **Finance** | Bloomberg Terminal · QuantLib · Backtrader |
+| **Languages** | Python · SQL |
+| **Data Engineering** | Databricks · Spark · Delta Lake |
+| **Cloud & Platform** | Azure · Microsoft Fabric |
+| **BI & Visualization** | Power BI · Tableau |
+| **Data Management** | Data Modeling · ETL · Data Quality |
 
-### Domains & Methods
+---
 
-| Domain | Methods |
+## Data Expertise
+
+| Area | Skills |
 |---|---|
-| **Machine Learning** | Regression · Classification · Time Series · Deep Learning |
-| **Statistics** | Monte Carlo Simulations · Bayesian Inference · Hypothesis Testing |
-| **Quant Finance** | Asset Pricing · Risk Management · Derivatives Pricing |
+| **Data Engineering** | ETL Pipelines · Data Transformation · Performance Optimization |
+| **BI & Analytics** | KPI Design · Dashboarding · Data Storytelling |
+| **Data Modeling** | Star Schema · Semantic Models · Data Warehousing |
+| **Data Governance** | Data Quality · Data Consistency · Best Practices |
 
 ---
-
-## Current Focus
-
-```
-📌 Reinforcement Learning for algorithmic trading strategies
-📌 Advanced Deep Learning architectures (PyTorch / TensorFlow)
-📌 ML-driven insurance underwriting optimization
-```
-
----
-
-## Open to Collaboration
-
-I'm actively looking for projects at the intersection of:
-
-- **Quantitative Finance** — risk modeling, portfolio optimization, derivatives
-- **Actuarial Analytics** — predictive modeling, underwriting, reserving
-- **Sports Analytics** — performance modeling and data-driven decision making
-- **Business Intelligence** — advanced statistical frameworks for actionable insights
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maghous&show_icons=true&theme=github_dark&hide_border=true)
-
-&nbsp;
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maghous&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ If you find my work useful, a star on any of my repositories is appreciated.
-
-</div>
