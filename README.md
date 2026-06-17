@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/maghous?v=4" alt="avatar" width="120" height="120" style="border-radius: 50%; border: 3px solid #4a90d9;">
+<img src="https://avatars.githubusercontent.com/maghous?v=4" alt="avatar" width="120" height="120" style="border-radius: 25%; border: 3px solid #4a90d9;">
 
 # Abdellah Maghous
 
